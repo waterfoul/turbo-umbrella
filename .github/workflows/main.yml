@@ -16,5 +16,5 @@ jobs:
           registry: ghcr.io
           username: ${{ github.repository_owner }}
           password: ${{ secrets.GITHUB_TOKEN }}
-          repository: <user-name>/hello-world 
+          repository: <user-name>/we-45-hello-world 
           tags: latest
