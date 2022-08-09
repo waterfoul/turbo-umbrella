@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: <image-name>
+        image: ghcr.io/waterfoul/we45-app:latest
         ports:
         - containerPort: 80
